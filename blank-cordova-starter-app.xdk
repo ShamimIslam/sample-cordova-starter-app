@@ -3,7 +3,7 @@
         "projectSettingsVersion": "2.0.0",
         "creationData": {
             "projectTypeName": "com.intel.xdk.projecttype.jsapp",
-            "src": "jsapp/sample-blank-cordova-starter-app/sample.zip",
+            "src": "jsapp/sample-cordova-starter-app/sample.zip",
             "projectGuid": "00000000-0000-0000-0000-000000000000",
             "lastModifiedDate": 1440312957361,
             "creationDate": 1440312891215
