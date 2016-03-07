@@ -81,7 +81,7 @@
                 "appName_": "blank-cordova",
                 "appID_": "xdk.intel.blank.template",
                 "appAccess_": {
-                    "mode": "legacy",
+                    "mode": "whitelist",
                     "network": [
                         "*"
                     ],
