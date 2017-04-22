@@ -18,7 +18,7 @@ Project Details
 ---------------
 
 Use this project as a starting point for an Intel XDK or Apache Cordova hybrid
-mobile app.  One key file (`init-dev.js`) contains the initialization code
+mobile app. One key file (`init-dev.js`) contains the initialization code
 needed to manage the "ready" event. This file manages the Cordova
 "deviceready" event and the standard browser "documentready" event init events
 in a way that allows you to run your app in either a Cordova or web app
